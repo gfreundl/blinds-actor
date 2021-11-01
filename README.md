@@ -1,9 +1,10 @@
 # blinds-actor
 
 This is an actor for the Homematic home automation system.
-It can adjust the tilt angle from standard venetian blinds.
+It can adjust the tilt angle on standard venetian blinds.
+So you can control your blinds remotely or by any schedule given by home automation system.
 
-# BOM:
+### BOM:
 - Arduino Pro Mini 3.3 V / 8 Mhz
 - CC1101 transceiver module 868 MHz
 - Pololu DRV8838 DC motor driver
@@ -25,4 +26,6 @@ Required Arduino Libraries:
 - AskSinPP
 - EnableInterrupt
 - LowPower
+
+!(Drawing.png)
 
