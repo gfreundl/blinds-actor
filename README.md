@@ -23,9 +23,10 @@ This resistor also works as a shunt to measure the operating current.
 The current is proportional to the torque and is used for detecting the end stop position.
 
 Required Arduino Libraries:
-- AskSinPP
-- EnableInterrupt
-- LowPower
+- [AskSinPP](https://github.com/pa-pa/AskSinPP)
+- [EnableInterrupt](https://github.com/GreyGnome/EnableInterrupt)
+- [LowPower](https://github.com/rocketscream/Low-Power)
 
-!(Drawing1.png)
+## Schematic
+![schematic](Drawing1.png)
 
