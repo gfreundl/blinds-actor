@@ -1,4 +1,4 @@
-# blinds-actor
+# blinds motor actor
 
 This is an actor for the Homematic home automation system.
 It can adjust the tilt angle on standard venetian blinds.
